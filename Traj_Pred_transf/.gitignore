@@ -1,0 +1,7 @@
+.vscode/launch.json
+*.pyc
+outputs/*
+data/*
+*.zip
+*.pdf
+*.svg
